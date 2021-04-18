@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**guriyavsashu/guriyavsashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently a student.
 - 🌱 I’m currently learning web development.
